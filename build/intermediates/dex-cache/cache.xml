@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8b218e475c114f56c88363f23bf524b315ba0b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_79e41c9929688cf4aafaf0c5230557d86f105b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9e1b86511d5c34fabb7bb932aea1230b6624e0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_ad3d2d754c5b7866be55e9703f3ccb39536cb80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_c91ee23c1148f22225bba82dc6881e5c71214fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0200ff31905e5d61921014092954176210269003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_ef16c3cdee51298173e0ee7ec7c180f076d7f706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_f9301a30efcfcb37331f234e9fa36f3bfa4c49a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2e336cbb89f313e5d096f37dbf8a1ef3322d4d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_95db6e29839965fad491f3f8ffc563ee95ffc69e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_40a2f04f1e1caf78821b0ec8e3eedd77b8cb2dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mulinrui\Desktop\Demo_weixin_6.0_ui\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_3d153b01f7f915a2c04a08c551d43a38c3a5c906.jar" />
+    </item>
+
+</items>

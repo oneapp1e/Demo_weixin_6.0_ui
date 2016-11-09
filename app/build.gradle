@@ -1,0 +1,16 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "com.mlr.weixin6.ui"
+        minSdkVersion 11
+        targetSdkVersion 17
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.0.0'
+}

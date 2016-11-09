@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_emoticons.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_myplaces.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_myplaces.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_start_conversation.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_allfriends.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_friendslist.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_cc.png",
+        "source": "C:\\Users\\mulinrui\\Desktop\\Demo_weixin_6.0_ui\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_cc.png"
+    }
+]
